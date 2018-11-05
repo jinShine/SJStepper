@@ -1,5 +1,7 @@
 # SJStepper
 
+![](SJStepperGIF.gif)
+
 ## Usage
 ```swift
 let stepper = SJStepper(minusTitle: "-", plusTitle: "+")
