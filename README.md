@@ -1,6 +1,6 @@
 # SJStepper
 
-![](SJStepperGIF.gif)
+![](SJStepper_GIF.gif)
 
 ## Usage
 ```swift
